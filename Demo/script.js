@@ -316,7 +316,7 @@ currentLocationButton.addEventListener("click", getCurrentLocation);
 
 // Auto Text Effect
 const textEl = document.getElementById("text");
-const text = "This is Praveen Oruganti Weather App!!";
+const text = "This is Praveen Oruganti Tech Weather App!!";
 let idx = 1;
 writeText();
 
